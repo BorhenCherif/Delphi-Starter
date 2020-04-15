@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/04/15 13:35:50.088,=D:\Delphi\Program\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 13:37:49.937,D:\Delphi\Program\section2\uformmain.fmx=D:\Delphi\Program\Unit1.fmx</Transaction>
+    <Transaction>2020/04/15 13:37:49.937,D:\Delphi\Program\section2\uformmain.pas=D:\Delphi\Program\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 13:38:08.172,D:\Delphi\Program\section2\gameofmemory.dproj=D:\Delphi\Program\Project3.dproj</Transaction>
+    <Transaction>2020/04/15 13:39:18.704,=D:\Delphi\Program\section2\Unit1.pas</Transaction>
+    <Transaction>2020/04/15 13:39:30.463,D:\Delphi\Program\section2\uformsetting.fmx=D:\Delphi\Program\section2\Unit1.fmx</Transaction>
+    <Transaction>2020/04/15 13:39:30.463,D:\Delphi\Program\section2\uformsetting.pas=D:\Delphi\Program\section2\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

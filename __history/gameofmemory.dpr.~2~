@@ -1,0 +1,16 @@
+program gameofmemory;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  uformmain in 'uformmain.pas' {FormMain},
+  uformsetting in 'uformsetting.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TFormMain, FormMain);
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.
